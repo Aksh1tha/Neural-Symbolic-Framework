@@ -1,0 +1,24 @@
+# FreeMind AI - Requirements
+# All dependencies are open-source and free to use
+
+# Web Application Framework
+streamlit>=1.28.0
+
+# Deep Learning and NLP
+torch>=2.0.0
+transformers>=4.35.0
+
+# Document Processing
+pypdf2>=3.0.0
+newspaper3k>=0.2.8
+
+# Visualization and Graph Processing
+networkx>=3.0
+matplotlib>=3.7.0
+scipy>=1.11.0
+
+# Additional Utilities
+numpy>=1.24.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
